@@ -1,12 +1,12 @@
 
 ### EduTech
 This is an mvp for an edutech website using php(laravel) which can be accessed on this link
-https://ecxedu.000webhostapp.com
+https://edutechs.herokuapp.com.com
 
 There was one contributor https://github.com/haywhyz
 
 ### User Account
-https://ecxedu.000webhostapp.com/login
+https://edutechs.herokuapp.com/login
 
 **Email**: user@user.com
 
@@ -14,7 +14,7 @@ https://ecxedu.000webhostapp.com/login
 
 ### Admin Account
 
-https://ecxedu.000webhostapp.com/admin/login
+https://edutechs.herokuapp.com/admin/login
 
 **Email**: admin@admin.com
 
