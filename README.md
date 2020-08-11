@@ -1,7 +1,7 @@
 
 ### EduTech
 This is an mvp for an edutech website using php(laravel) which can be accessed on this link
-https://edutechs.herokuapp.com.com
+https://edutechs.herokuapp.com
 
 There was one contributor https://github.com/haywhyz
 
